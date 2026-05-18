@@ -4,7 +4,7 @@
     "general.confirm": "Confirm",
     "general.retry": "Retry",
     "general.try_again": "Try Again",
-    "general.exit": "Exit",
+    "general.exit": "Home",
     "general.error": "Error",
     "general.debug_prefix": "[Debug]",
     "general.skip": "Next",
@@ -125,7 +125,7 @@
 
     "general.empty": "",
     "login.welcome_title": "Welcome to Resuscitation Skills",
-    "login.welcome_subtitle": "Master your high-quality CPR skills and earn digital certificates for BLS, ALS and/or PALS with the American Red Cross Resuscitation Suite and Brayden Pro manikins.\n\nTo complete your skills checks on your facility's dedicated self-directed manikin, login with your hStream ID from your learning management system.",
+    "login.welcome_subtitle": "Master your high-quality CPR skills and earn digital certificates for BLS, ALS and/or PALS with the American Red Cross Resuscitation Suite and Brayden Pro manikins.\n\nTo complete your skills checks on your facility's dedicated self-directed manikin, login with your hStream ID.",
     "login.login_with_hstream": "Login with hStream",
     "login.error_app_config": "App configuration",
     "login.error_login": "Login failed. Please try again.",
