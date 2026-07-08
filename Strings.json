@@ -127,6 +127,12 @@
     "navigation.guide_help": "Guide & Help",
     "navigation.logout": "Logout",
 
+    "no_training.title": "Looks like you have no required\nResuscitation Skills to complete.",
+    "no_training.detail_description": "If you expected skills assignments, please review your completions of:",
+    "no_training.item_online_training": "Online Training Course",
+    "no_training.item_evaluation": "Evaluation",
+    "no_training.admin_note": "Your Resuscitation Administrator may provide additional assistance as needed.",
+
     "general.empty": "",
     "login.welcome_title": "Welcome to Resuscitation Skills",
     "login.welcome_subtitle": "Master your high-quality CPR skills and earn digital certificates for BLS, ALS and/or PALS with the American Red Cross Resuscitation Suite and Brayden Pro manikins.\n\nTo complete your skills checks on your facility's dedicated self-directed manikin, login with your hStream ID.",
@@ -139,6 +145,10 @@
     "org.select_organization": "Select Organization",
     "org.which_organization": "Which organization are you completing this skills check for?",
     "org.continue": "Continue",
+
+    "inst.select_institution": "Select Institution",
+    "inst.which_institution": "Which institution are you completing this skills check for?",
+    "inst.unnamed": "Institution %d",
 
     "device.failed_to_connect_lower": "Failed to connect",
 
