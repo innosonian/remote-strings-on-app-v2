@@ -1,4 +1,9 @@
 {
+  "Training can continue": "トレーニングを続行できます",
+  "Chest compression training can continue": "胸骨圧迫トレーニングを続行できます",
+  "After inspection, start the training again": "点検後、トレーニングを再開してください",
+  "View": "表示",
+  "Training stopped. Check the device, then start again.": "トレーニングが停止しました。デバイスを確認してから再開してください。",
   "Hello,": "こんにちは、",
   "Manage your organization’s courses.": "組織のコースを管理します。",
   "Training your moment to be someone’s miracle.": "その瞬間のトレーニングが、誰かの奇跡になる。",
@@ -31,6 +36,8 @@
   "This will unpublish the course. You’ll need to publish it again to make it available. Do you want to continue?": "このコースを非公開にします。再び利用するには再公開が必要です。続行しますか？",
   "{N} students are currently in progress, and their progress may be affected.": "現在 {N} 名の受講者が進行中で、進捗に影響が出る可能性があります。",
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "現在 {N} 名の受講者が進行中で、進捗がリセットされ、コースを最初からやり直す必要が生じる可能性があります。",
+  "{N} student is currently in progress, and their progress may be affected.": "現在 {N} 名の受講者が進行中で、進捗に影響が出る可能性があります。",
+  "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "現在 {N} 名の受講者が進行中で、進捗がリセットされ、コースを最初からやり直す必要が生じる可能性があります。",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "続行すると、\nこのコースは元の組織との連携が解除されます。\n{Organization Name} からの更新は停止し、\n証明書はあなたの組織から発行されます。\nこの操作は取り消せません。続行しますか？",
   "\npoints": "\n点",
   " Check adapter connection": " アダプター接続を確認してください",
@@ -475,6 +482,8 @@
   "Please check your internet connection to log in": "ログインするにはインターネット接続を確認してください",
   "Please check your settings and try again. \nIf the issue persists, contact support.": "設定を確認して、もう一度お試しください。\n問題が続く場合はサポートにお問い合わせください。",
   "Please contact your instructor or manager for assistance.": "講師または管理者にお問い合わせください。",
+  "Your license has expired": "ライセンスの有効期限が切れています",
+  "Your license is not active": "ライセンスが有効ではありません",
   "Please follow the voice instructions of the AED trainer.": "AEDトレーナーの音声指示に従ってください。",
   "Please press the Shock Button within {N} seconds from arrival of the AED-T. {N}st AED-T Duration: {N} seconds.": "AED-Tへの到着から電気ショックまで{N}秒以内に行ってください。{N}回目のAED-T実施時間：{N}秒",
   "Please reconnect it and resume from the last suspended step.": "再接続して、最後に中断したステップから再開してください。",
@@ -720,7 +729,7 @@
   "Ventilation\nSpeed": "人工呼吸の\n速度",
   "Ventilation\nVolume": "人工呼吸\n量",
   "Ventilation Count": "人工呼吸回数",
-  "Ventilation Only": "人工呼吸のみ",
+  "Ventilation Training": "人工呼吸トレーニング",
   "Ventilation Only Metric Criteria": "人工呼吸のみの評価基準",
   "Ventilation Rate": "人工呼吸の頻度",
   "Ventilation Speed": "人工呼吸の速度",
@@ -889,5 +898,6 @@
   "This will permanently delete the course and remove it from all sub-organizations.\nDo you want to continue?": "このコースは完全に削除され、すべての下位組織からも削除されます。\n続行しますか？",
   "This will remove the course from your organization.\nDo you want to continue?": "このコースを組織から解除します。\n続行しますか？",
   "The course was deleted.": "コースを削除しました。",
-  "Couldn’t delete this course. Please try again.": "このコースを削除できませんでした。もう一度お試しください。"
+  "Couldn’t delete this course. Please try again.": "このコースを削除できませんでした。もう一度お試しください。",
+  "At least one course must remain.": "コースは少なくとも1つ残しておく必要があります。"
 }

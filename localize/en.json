@@ -1,4 +1,9 @@
 {
+  "Training can continue": "Training can continue",
+  "Chest compression training can continue": "Chest compression training can continue",
+  "After inspection, start the training again": "After inspection, start the training again",
+  "View": "View",
+  "Training stopped. Check the device, then start again.": "Training stopped. Check the device, then start again.",
   "Hello,": "Hello,",
   "Manage your organization’s courses.": "Manage your organization’s courses.",
   "Training your moment to be someone’s miracle.": "Training your moment to be someone’s miracle.",
@@ -31,6 +36,8 @@
   "This will unpublish the course. You’ll need to publish it again to make it available. Do you want to continue?": "This will unpublish the course. You’ll need to publish it again to make it available. Do you want to continue?",
   "{N} students are currently in progress, and their progress may be affected.": "{N} students are currently in progress, and their progress may be affected.",
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.",
+  "{N} student is currently in progress, and their progress may be affected.": "{N} student is currently in progress, and their progress may be affected.",
+  "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?",
   "\npoints": "\npoints",
   " Check adapter connection": " Check adapter connection",
@@ -475,6 +482,8 @@
   "Please check your internet connection to log in": "Please check your internet connection to log in",
   "Please check your settings and try again. \nIf the issue persists, contact support.": "Please check your settings and try again. \nIf the issue persists, contact support.",
   "Please contact your instructor or manager for assistance.": "Please contact your instructor or manager for assistance.",
+  "Your license has expired": "Your license has expired",
+  "Your license is not active": "Your license is not active",
   "Please follow the voice instructions of the AED trainer.": "Please follow the voice instructions of the AED trainer.",
   "Please press the Shock Button within {N} seconds from arrival of the AED-T. {N}st AED-T Duration: {N} seconds.": "Please press the Shock Button within {N} seconds from arrival of the AED-T. {N}st AED-T Duration: {N} seconds.",
   "Please reconnect it and resume from the last suspended step.": "Please reconnect it and resume from the last suspended step.",
@@ -720,7 +729,7 @@
   "Ventilation\nSpeed": "Ventilation\nSpeed",
   "Ventilation\nVolume": "Ventilation\nVolume",
   "Ventilation Count": "Ventilation Count",
-  "Ventilation Only": "Ventilation Only",
+  "Ventilation Training": "Ventilation Training",
   "Ventilation Only Metric Criteria": "Ventilation Only Metric Criteria",
   "Ventilation Rate": "Ventilation Rate",
   "Ventilation Speed": "Ventilation Speed",
@@ -889,5 +898,6 @@
   "This will permanently delete the course and remove it from all sub-organizations.\nDo you want to continue?": "This will permanently delete the course and remove it from all sub-organizations.\nDo you want to continue?",
   "This will remove the course from your organization.\nDo you want to continue?": "This will remove the course from your organization.\nDo you want to continue?",
   "The course was deleted.": "The course was deleted.",
-  "Couldn’t delete this course. Please try again.": "Couldn’t delete this course. Please try again."
+  "Couldn’t delete this course. Please try again.": "Couldn’t delete this course. Please try again.",
+  "At least one course must remain.": "At least one course must remain."
 }

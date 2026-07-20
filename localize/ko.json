@@ -1,4 +1,9 @@
 {
+  "Training can continue": "교육을 계속할 수 있습니다",
+  "Chest compression training can continue": "가슴압박 교육을 계속할 수 있습니다",
+  "After inspection, start the training again": "점검 후 교육을 다시 시작하세요",
+  "View": "보기",
+  "Training stopped. Check the device, then start again.": "교육이 중단되었습니다. 기기를 점검한 뒤 다시 시작하세요.",
   "Hello,": "안녕하세요,",
   "Manage your organization’s courses.": "조직의 코스를 관리하세요.",
   "Training your moment to be someone’s miracle.": "누군가의 기적이 될 당신의 순간을 훈련하세요.",
@@ -31,6 +36,8 @@
   "This will unpublish the course. You’ll need to publish it again to make it available. Do you want to continue?": "이 교육과정이 미게시돼요. 교육을 진행하려면 다시 게시가 필요해요. 계속 진행하시겠어요?",
   "{N} students are currently in progress, and their progress may be affected.": "현재 {N}명의 교육생이 참여 중인데 이들은 더 이상 접근할 수 없고, 진행 상태에도 영향이 있을 수 있어요.",
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "현재 {N}명의 교육생이 참여 중인데 진행 상태가 초기화될 수 있고, 교육과정을 다시 시작해야 해요.",
+  "{N} student is currently in progress, and their progress may be affected.": "현재 {N}명의 교육생이 참여 중인데 더 이상 접근할 수 없고, 진행 상태에도 영향이 있을 수 있어요.",
+  "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "현재 {N}명의 교육생이 참여 중인데 진행 상태가 초기화될 수 있고, 교육과정을 다시 시작해야 해요.",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "계속하면\n이 교육과정이 원본과 연결 해제돼요.\n{Organization Name}의 업데이트가 중단되고,\n인증서는 내 조직에서 발급돼요.\n이 작업은 되돌릴 수 없어요. 계속 진행하시겠어요?",
   "\npoints": "점",
   " Check adapter connection": "전원 어댑터 연결을 확인하세요",
@@ -475,6 +482,8 @@
   "Please check your internet connection to log in": "로그인하려면 인터넷 연결을 확인해 주세요.",
   "Please check your settings and try again. \nIf the issue persists, contact support.": "설정을 확인하고 다시 시도해 주세요. \n문제가 계속되면 고객지원에 문의해 주세요.",
   "Please contact your instructor or manager for assistance.": "강사 또는 관리자에게 문의해 주세요.",
+  "Your license has expired": "라이선스가 만료되었습니다",
+  "Your license is not active": "라이선스를 사용할 수 없습니다",
   "Please follow the voice instructions of the AED trainer.": "AED 트레이너의 음성 안내에 따라주세요",
   "Please press the Shock Button within {N} seconds from arrival of the AED-T. {N}st AED-T Duration: {N} seconds.": "AED-T 도착부터 전기충격까지 {N}초 이내에 수행해주세요. {N}번째 AED-T 수행 시간: {N}초",
   "Please reconnect it and resume from the last suspended step.": "다시 연결한 후 중단된 단계부터 이어서 진행해 주세요.",
@@ -720,7 +729,7 @@
   "Ventilation\nSpeed": "인공호흡\n세기",
   "Ventilation\nVolume": "인공호흡\n량",
   "Ventilation Count": "인공호흡 횟수",
-  "Ventilation Only": "인공호흡 훈련",
+  "Ventilation Training": "인공호흡 훈련",
   "Ventilation Only Metric Criteria": "세부결과 (인공호흡)",
   "Ventilation Rate": "인공호흡 빈도",
   "Ventilation Speed": "인공호흡 세기",
@@ -889,5 +898,6 @@
   "This will permanently delete the course and remove it from all sub-organizations.\nDo you want to continue?": "이 교육과정을 삭제하면 모든 하위 조직에서도 삭제돼요.\n계속 진행하시겠어요?",
   "This will remove the course from your organization.\nDo you want to continue?": "이 교육과정을 조직에서 제거해요.\n계속 진행하시겠어요?",
   "The course was deleted.": "교육과정을 삭제했어요.",
-  "Couldn’t delete this course. Please try again.": "이 교육과정을 삭제하지 못했어요. 다시 시도해 주세요."
+  "Couldn’t delete this course. Please try again.": "이 교육과정을 삭제하지 못했어요. 다시 시도해 주세요.",
+  "At least one course must remain.": "최소 한 개의 코스는 남겨두어야 합니다."
 }

@@ -1,4 +1,9 @@
 {
+  "Training can continue": "El entrenamiento puede continuar",
+  "Chest compression training can continue": "El entrenamiento de compresiones torácicas puede continuar",
+  "After inspection, start the training again": "Después de la inspección, vuelva a iniciar el entrenamiento",
+  "View": "Ver",
+  "Training stopped. Check the device, then start again.": "El entrenamiento se detuvo. Revise el dispositivo y vuelva a empezar.",
   "Hello,": "Hola,",
   "Manage your organization’s courses.": "Administra los cursos de tu organización.",
   "Training your moment to be someone’s miracle.": "Entrenando tu momento para ser el milagro de alguien.",
@@ -31,6 +36,8 @@
   "This will unpublish the course. You’ll need to publish it again to make it available. Do you want to continue?": "Esto cancelará la publicación del curso. Deberás publicarlo de nuevo para que esté disponible. ¿Deseas continuar?",
   "{N} students are currently in progress, and their progress may be affected.": "Actualmente {N} estudiantes están en curso y su progreso podría verse afectado.",
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "Actualmente {N} estudiantes están en curso. Su progreso podría restablecerse y tendrán que reiniciar el curso.",
+  "{N} student is currently in progress, and their progress may be affected.": "Actualmente {N} estudiante está en curso y su progreso podría verse afectado.",
+  "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "Actualmente {N} estudiante está en curso. Su progreso podría restablecerse y tendrá que reiniciar el curso.",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "Si continúas,\neste curso se desvinculará del original.\nLas actualizaciones de {Organization Name} se detendrán\ny los certificados los emitirá tu organización.\nEsta acción no se puede deshacer. ¿Deseas continuar?",
   "\npoints": "\npuntos",
   " Check adapter connection": " Revisa la conexión del adaptador",
@@ -472,6 +479,8 @@
   "Please check your internet connection to log in": "Verifica tu conexión a internet para iniciar sesión",
   "Please check your settings and try again. \nIf the issue persists, contact support.": "Revisa tu configuración e inténtalo de nuevo. \nSi el problema persiste, contacta a soporte.",
   "Please contact your instructor or manager for assistance.": "Ponte en contacto con tu instructor o gerente para obtener ayuda.",
+  "Your license has expired": "Su licencia ha vencido",
+  "Your license is not active": "Su licencia no está activa",
   "Please follow the voice instructions of the AED trainer.": "Sigue las instrucciones de voz del Entrenador DEA.",
   "Please press the Shock Button within {N} seconds from arrival of the AED-T. {N}st AED-T Duration: {N} seconds.": "Presione el botón de descarga en los {N} segundos siguientes a la llegada del AED-T. {N}st AED-T Duración: {N} segundos.",
   "Please reconnect it and resume from the last suspended step.": "Vuelve a conectarlo y reanuda desde el último paso suspendido.",
@@ -717,7 +726,7 @@
   "Ventilation\nSpeed": "Velocidad de\nventilación",
   "Ventilation\nVolume": "Volumen de\nventilación",
   "Ventilation Count": "Cantidad de ventilaciones",
-  "Ventilation Only": "Solo ventilación",
+  "Ventilation Training": "Entrenamiento de ventilación",
   "Ventilation Only Metric Criteria": "Criterios de métricas solo de ventilación",
   "Ventilation Rate": "Tasa de ventilación",
   "Ventilation Speed": "Velocidad de ventilación",
@@ -889,5 +898,6 @@
   "This will permanently delete the course and remove it from all sub-organizations.\nDo you want to continue?": "Esto eliminará el curso de forma permanente y lo quitará de todas las suborganizaciones.\n¿Quieres continuar?",
   "This will remove the course from your organization.\nDo you want to continue?": "Esto quitará el curso de tu organización.\n¿Quieres continuar?",
   "The course was deleted.": "El curso se eliminó.",
-  "Couldn’t delete this course. Please try again.": "No se pudo eliminar este curso. Inténtalo de nuevo."
+  "Couldn’t delete this course. Please try again.": "No se pudo eliminar este curso. Inténtalo de nuevo.",
+  "At least one course must remain.": "Debe conservarse al menos un curso."
 }

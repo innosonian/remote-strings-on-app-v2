@@ -1,4 +1,9 @@
 {
+  "Training can continue": "可以继续训练",
+  "Chest compression training can continue": "可以继续胸外按压训练",
+  "After inspection, start the training again": "检查后，请重新开始训练",
+  "View": "查看",
+  "Training stopped. Check the device, then start again.": "训练已停止。请检查设备，然后重新开始。",
   "Hello,": "您好，",
   "Manage your organization’s courses.": "管理您机构的课程。",
   "Training your moment to be someone’s miracle.": "训练此刻，成为他人的奇迹。",
@@ -31,6 +36,8 @@
   "This will unpublish the course. You’ll need to publish it again to make it available. Do you want to continue?": "将取消发布本课程。如需再次使用，需要重新发布。是否继续？",
   "{N} students are currently in progress, and their progress may be affected.": "当前有 {N} 名学员正在进行中，其进度可能会受到影响。",
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "当前有 {N} 名学员正在进行中，其进度可能会被重置，并需要重新开始课程。",
+  "{N} student is currently in progress, and their progress may be affected.": "当前有 {N} 名学员正在进行中，其进度可能会受到影响。",
+  "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "当前有 {N} 名学员正在进行中，其进度可能会被重置，并需要重新开始课程。",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "如果继续，\n本课程将与原始组织解除关联。\n{Organization Name} 的更新将停止，\n证书将由您的组织签发。\n此操作无法撤销。是否继续？",
   "\npoints": "点",
   " Check adapter connection": "请检查电源适配器的连接。",
@@ -475,6 +482,8 @@
   "Please check your internet connection to log in": "请检查网络连接后再登录",
   "Please check your settings and try again. \nIf the issue persists, contact support.": "代码有误。\\n若问题持续，请联系管理员。",
   "Please contact your instructor or manager for assistance.": "如需帮助，请联系您的指导老师或主管。",
+  "Your license has expired": "您的许可证已过期",
+  "Your license is not active": "您的许可证未激活",
   "Please follow the voice instructions of the AED trainer.": "请按照 AED 训练器的语音提示进行操作。",
   "Please press the Shock Button within {N} seconds from arrival of the AED-T. {N}st AED-T Duration: {N} seconds.": "请在AED-T到达后{N}秒内完成电击。第{N}次AED-T操作时间：{N}秒",
   "Please reconnect it and resume from the last suspended step.": "请重新连接设备，并从上次中断的步骤继续。",
@@ -720,7 +729,7 @@
   "Ventilation\nSpeed": "人工呼吸\n频率",
   "Ventilation\nVolume": "人工呼吸\n量",
   "Ventilation Count": "人工呼吸次数",
-  "Ventilation Only": "仅人工呼吸",
+  "Ventilation Training": "人工呼吸训练",
   "Ventilation Only Metric Criteria": "仅人工呼吸评估标准",
   "Ventilation Rate": "人工呼吸频率",
   "Ventilation Speed": "人工呼吸频率",
@@ -889,5 +898,6 @@
   "This will permanently delete the course and remove it from all sub-organizations.\nDo you want to continue?": "此操作将永久删除该课程，并将其从所有下级组织中移除。\n确定要继续吗？",
   "This will remove the course from your organization.\nDo you want to continue?": "此操作将从您的组织中移除该课程。\n确定要继续吗？",
   "The course was deleted.": "课程已删除。",
-  "Couldn’t delete this course. Please try again.": "无法删除此课程。请重试。"
+  "Couldn’t delete this course. Please try again.": "无法删除此课程。请重试。",
+  "At least one course must remain.": "至少需要保留一个课程。"
 }
