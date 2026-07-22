@@ -68,7 +68,7 @@
     "training.ready": "Ready",
     "training.als": "ALS",
     "training.timeout_title": "Time's Up",
-    "training.timeout_message": "You did not reach the target within the time limit.\nPlease try again.",
+    "training.timeout_message": "You did not reach the target within the time limit.\nPlease try again from the start.",
     "training.bls": "BLS",
     "training.pals": "PALS",
     "training.partner": "Partner",
