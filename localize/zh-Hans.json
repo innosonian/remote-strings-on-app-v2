@@ -38,6 +38,8 @@
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "当前有 {N} 名学员正在进行中，其进度可能会被重置，并需要重新开始课程。",
   "{N} student is currently in progress, and their progress may be affected.": "当前有 {N} 名学员正在进行中，其进度可能会受到影响。",
   "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "当前有 {N} 名学员正在进行中，其进度可能会被重置，并需要重新开始课程。",
+  "Any students currently in progress may be affected.": "如有学员正在进行中，其进度可能会受到影响。",
+  "Any students currently in progress may have their progress reset and need to restart the course.": "如有学员正在进行中，其进度可能会被重置，并需要重新开始课程。",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "如果继续，\n本课程将与原始组织解除关联。\n{Organization Name} 的更新将停止，\n证书将由您的组织签发。\n此操作无法撤销。是否继续？",
   "\npoints": "点",
   " Check adapter connection": "请检查电源适配器的连接。",
@@ -899,5 +901,9 @@
   "This will remove the course from your organization.\nDo you want to continue?": "此操作将从您的组织中移除该课程。\n确定要继续吗？",
   "The course was deleted.": "课程已删除。",
   "Couldn’t delete this course. Please try again.": "无法删除此课程。请重试。",
-  "At least one course must remain.": "至少需要保留一个课程。"
+  "At least one course must remain.": "至少需要保留一个课程。",
+  "Couldn’t save this course. Please try again.": "无法保存此课程。请重试。",
+  "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "更改已保存，但无法加载最新内容。\n请重试，或关闭编辑器后重新打开。",
+  "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "当前屏幕上的更改将被最近保存的版本替换。\n是否继续？",
+  "Couldn’t unpublish this course. Please try again.": "无法取消发布此课程。请重试。"
 }

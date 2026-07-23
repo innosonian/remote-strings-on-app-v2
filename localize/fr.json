@@ -38,6 +38,8 @@
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "Actuellement, {N} étudiants sont en cours. Leur progression pourrait être réinitialisée et ils devront recommencer le cours.",
   "{N} student is currently in progress, and their progress may be affected.": "Actuellement, {N} étudiant est en cours et sa progression pourrait être affectée.",
   "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "Actuellement, {N} étudiant est en cours. Sa progression pourrait être réinitialisée et il devra recommencer le cours.",
+  "Any students currently in progress may be affected.": "Si des étudiants sont en cours, leur progression pourrait être affectée.",
+  "Any students currently in progress may have their progress reset and need to restart the course.": "Si des étudiants sont en cours, leur progression pourrait être réinitialisée et ils devront recommencer le cours.",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "Si vous continuez,\nce cours sera dissocié de l’original.\nLes mises à jour de {Organization Name} cesseront,\net les certificats seront délivrés par votre organisation.\nCette action est irréversible. Voulez-vous continuer ?",
   "\npoints": "\npoints",
   " Check adapter connection": " Vérifier la connexion de l’adaptateur",
@@ -899,5 +901,9 @@
   "This will remove the course from your organization.\nDo you want to continue?": "Le cours sera retiré de votre organisation.\nVoulez-vous continuer ?",
   "The course was deleted.": "Le cours a été supprimé.",
   "Couldn’t delete this course. Please try again.": "Impossible de supprimer ce cours. Veuillez réessayer.",
-  "At least one course must remain.": "Au moins un cours doit être conservé."
+  "At least one course must remain.": "Au moins un cours doit être conservé.",
+  "Couldn’t save this course. Please try again.": "Impossible d’enregistrer ce cours. Veuillez réessayer.",
+  "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Vos modifications ont été enregistrées, mais la dernière version n’a pas pu être chargée.\nRéessayez ou fermez l’éditeur puis rouvrez-le.",
+  "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "Les modifications de cet écran seront remplacées par la dernière version enregistrée.\nVoulez-vous continuer ?",
+  "Couldn’t unpublish this course. Please try again.": "Impossible d’annuler la publication de ce cours. Veuillez réessayer."
 }

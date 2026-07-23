@@ -38,6 +38,8 @@
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "Attualmente {N} studenti sono in corso. I loro progressi potrebbero essere reimpostati e dovranno ricominciare il corso.",
   "{N} student is currently in progress, and their progress may be affected.": "Attualmente {N} studente è in corso e i suoi progressi potrebbero essere influenzati.",
   "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "Attualmente {N} studente è in corso. I suoi progressi potrebbero essere reimpostati e dovrà ricominciare il corso.",
+  "Any students currently in progress may be affected.": "Se ci sono studenti in corso, i loro progressi potrebbero essere influenzati.",
+  "Any students currently in progress may have their progress reset and need to restart the course.": "Se ci sono studenti in corso, i loro progressi potrebbero essere reimpostati e dovranno ricominciare il corso.",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "Se continui,\nquesto corso verrà scollegato dall’originale.\nGli aggiornamenti da {Organization Name} si interromperanno\ne i certificati saranno emessi dalla tua organizzazione.\nQuesta azione non può essere annullata. Vuoi continuare?",
   "\npoints": "\npunti",
   " Check adapter connection": " Verifica il collegamento dell'adattatore",
@@ -899,5 +901,9 @@
   "This will remove the course from your organization.\nDo you want to continue?": "Il corso verrà rimosso dalla tua organizzazione.\nVuoi continuare?",
   "The course was deleted.": "Il corso è stato eliminato.",
   "Couldn’t delete this course. Please try again.": "Impossibile eliminare questo corso. Riprova.",
-  "At least one course must remain.": "Deve rimanere almeno un corso."
+  "At least one course must remain.": "Deve rimanere almeno un corso.",
+  "Couldn’t save this course. Please try again.": "Impossibile salvare questo corso. Riprova.",
+  "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Le modifiche sono state salvate, ma non è stato possibile caricare la versione più recente.\nRiprova oppure chiudi l’editor e riaprilo.",
+  "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "Le modifiche in questa schermata verranno sostituite dall’ultima versione salvata.\nVuoi continuare?",
+  "Couldn’t unpublish this course. Please try again.": "Impossibile annullare la pubblicazione di questo corso. Riprova."
 }

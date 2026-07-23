@@ -38,6 +38,8 @@
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "현재 {N}명의 교육생이 참여 중인데 진행 상태가 초기화될 수 있고, 교육과정을 다시 시작해야 해요.",
   "{N} student is currently in progress, and their progress may be affected.": "현재 {N}명의 교육생이 참여 중인데 더 이상 접근할 수 없고, 진행 상태에도 영향이 있을 수 있어요.",
   "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "현재 {N}명의 교육생이 참여 중인데 진행 상태가 초기화될 수 있고, 교육과정을 다시 시작해야 해요.",
+  "Any students currently in progress may be affected.": "현재 참여 중인 교육생이 있다면 진행 상태에 영향이 있을 수 있어요.",
+  "Any students currently in progress may have their progress reset and need to restart the course.": "현재 참여 중인 교육생이 있다면 진행 상태가 초기화되어 교육과정을 다시 시작해야 할 수 있어요.",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "계속하면\n이 교육과정이 원본과 연결 해제돼요.\n{Organization Name}의 업데이트가 중단되고,\n인증서는 내 조직에서 발급돼요.\n이 작업은 되돌릴 수 없어요. 계속 진행하시겠어요?",
   "\npoints": "점",
   " Check adapter connection": "전원 어댑터 연결을 확인하세요",
@@ -899,5 +901,9 @@
   "This will remove the course from your organization.\nDo you want to continue?": "이 교육과정을 조직에서 제거해요.\n계속 진행하시겠어요?",
   "The course was deleted.": "교육과정을 삭제했어요.",
   "Couldn’t delete this course. Please try again.": "이 교육과정을 삭제하지 못했어요. 다시 시도해 주세요.",
-  "At least one course must remain.": "최소 한 개의 코스는 남겨두어야 합니다."
+  "At least one course must remain.": "최소 한 개의 코스는 남겨두어야 합니다.",
+  "Couldn’t save this course. Please try again.": "이 코스를 저장하지 못했습니다. 다시 시도해 주세요.",
+  "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "변경사항은 저장되었지만 최신 내용을 불러오지 못했습니다.\n다시 시도하거나 편집을 닫았다가 다시 열어 주세요.",
+  "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "지금 화면의 변경사항이 최근 저장본으로 대체됩니다.\n계속하시겠습니까?",
+  "Couldn’t unpublish this course. Please try again.": "이 코스의 게시를 취소하지 못했습니다. 다시 시도해 주세요."
 }

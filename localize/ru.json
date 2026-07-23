@@ -38,6 +38,8 @@
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "Сейчас {N} учащихся проходят курс. Их прогресс может быть сброшен, и им придётся начать курс заново.",
   "{N} student is currently in progress, and their progress may be affected.": "Сейчас {N} учащийся проходит курс, и его прогресс может быть затронут.",
   "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "Сейчас {N} учащийся проходит курс. Его прогресс может быть сброшен, и ему придётся начать курс заново.",
+  "Any students currently in progress may be affected.": "Если есть учащиеся, проходящие курс, их прогресс может быть затронут.",
+  "Any students currently in progress may have their progress reset and need to restart the course.": "Если есть учащиеся, проходящие курс, их прогресс может быть сброшен, и им придётся начать курс заново.",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "Если вы продолжите,\nэтот курс будет отвязан от оригинала.\nОбновления от {Organization Name} прекратятся,\nа сертификаты будет выдавать ваша организация.\nЭто действие нельзя отменить. Продолжить?",
   "\npoints": "\nбаллы",
   " Check adapter connection": " Проверьте подключение адаптера",
@@ -899,5 +901,9 @@
   "This will remove the course from your organization.\nDo you want to continue?": "Курс будет удалён из вашей организации.\nПродолжить?",
   "The course was deleted.": "Курс удалён.",
   "Couldn’t delete this course. Please try again.": "Не удалось удалить этот курс. Пожалуйста, попробуйте ещё раз.",
-  "At least one course must remain.": "Должен остаться хотя бы один курс."
+  "At least one course must remain.": "Должен остаться хотя бы один курс.",
+  "Couldn’t save this course. Please try again.": "Не удалось сохранить этот курс. Пожалуйста, попробуйте ещё раз.",
+  "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Изменения сохранены, но не удалось загрузить последнюю версию.\nПопробуйте ещё раз или закройте редактор и откройте его снова.",
+  "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "Изменения на этом экране будут заменены последней сохранённой версией.\nПродолжить?",
+  "Couldn’t unpublish this course. Please try again.": "Не удалось отменить публикацию этого курса. Пожалуйста, попробуйте ещё раз."
 }

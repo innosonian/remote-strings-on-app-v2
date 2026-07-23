@@ -38,6 +38,8 @@
   "{N} students are currently in progress. Their progress may be reset, and they will need to restart the course.": "現在 {N} 名の受講者が進行中で、進捗がリセットされ、コースを最初からやり直す必要が生じる可能性があります。",
   "{N} student is currently in progress, and their progress may be affected.": "現在 {N} 名の受講者が進行中で、進捗に影響が出る可能性があります。",
   "{N} student is currently in progress. Their progress may be reset, and they will need to restart the course.": "現在 {N} 名の受講者が進行中で、進捗がリセットされ、コースを最初からやり直す必要が生じる可能性があります。",
+  "Any students currently in progress may be affected.": "現在進行中の受講者がいる場合、進捗に影響が出る可能性があります。",
+  "Any students currently in progress may have their progress reset and need to restart the course.": "現在進行中の受講者がいる場合、進捗がリセットされ、コースを最初からやり直す必要が生じる可能性があります。",
   "If you continue,\nthis course will be unlinked from the original.\nUpdates from {Organization Name} will stop,\nand certificates will be issued by your organization.\nThis action cannot be undone. Do you want to continue?": "続行すると、\nこのコースは元の組織との連携が解除されます。\n{Organization Name} からの更新は停止し、\n証明書はあなたの組織から発行されます。\nこの操作は取り消せません。続行しますか？",
   "\npoints": "\n点",
   " Check adapter connection": " アダプター接続を確認してください",
@@ -899,5 +901,9 @@
   "This will remove the course from your organization.\nDo you want to continue?": "このコースを組織から解除します。\n続行しますか？",
   "The course was deleted.": "コースを削除しました。",
   "Couldn’t delete this course. Please try again.": "このコースを削除できませんでした。もう一度お試しください。",
-  "At least one course must remain.": "コースは少なくとも1つ残しておく必要があります。"
+  "At least one course must remain.": "コースは少なくとも1つ残しておく必要があります。",
+  "Couldn’t save this course. Please try again.": "このコースを保存できませんでした。もう一度お試しください。",
+  "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "変更は保存されましたが、最新の内容を読み込めませんでした。\nもう一度お試しいただくか、編集を閉じてから開き直してください。",
+  "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "現在の画面の変更内容は、最後に保存された内容に置き換えられます。\n続行しますか？",
+  "Couldn’t unpublish this course. Please try again.": "このコースの公開を取り消せませんでした。もう一度お試しください。"
 }
