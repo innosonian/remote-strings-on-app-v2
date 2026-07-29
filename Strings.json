@@ -94,7 +94,7 @@
     "result.fail.stopped_early_low": "Not quite there yet. You stopped early.\n\nNo score will be provided.",
     "result.fail.stopped_early": "You were doing well, but stopped early.\n\nNo score will be provided.",
     "result.fail.below_passing": "You did not pass.\n\nYou must repeat the skill.",
-    "result.fail.comp_no": "You were doing well, but compress the chest 30 times each cycle.\n\nNo score will be provided.",
+    "result.fail.comp_no": "You were doing well, but compress the chest %d times each cycle.\n\nNo score will be provided.",
     "result.fail.hand_position": "You were doing well, but compress in the middle of the chest.\n\nNo score will be provided.",
     "result.fail.recoil": "You were doing well, but allow the chest to fully recoil between compressions.\n\nNo score will be provided.",
     "result.feedback": "Feedback",
