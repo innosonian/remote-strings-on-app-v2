@@ -1,5 +1,5 @@
 {
-  "Training can continue": "可以繼續訓練",
+  "Uninspected, training may stop abruptly": "未檢查，訓練可能會突然中斷",
   "Chest compression training can continue": "可以繼續胸部按壓訓練",
   "After inspection, start the training again": "檢查後，請重新開始訓練",
   "View": "檢視",
@@ -48,7 +48,7 @@
   " Check the chest compression sensor": "請確認按壓深度感測器",
   " Check the hand position button": "請確認胸部按壓位置板",
   " Check the magnetic field sensor": "請確認呼吸感測器",
-  " Check the ribs board": "請確認唇板",
+  " Check the ribs board": "請確認肋骨板",
   " Points": "分",
   " min ": "分鐘",
   " sec": "秒",
@@ -905,5 +905,10 @@
   "Couldn’t save this course. Please try again.": "無法儲存此課程。請重試。",
   "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "變更已儲存，但無法載入最新內容。\n請重試，或關閉編輯器後重新開啟。",
   "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "目前畫面上的變更將被最近儲存的版本取代。\n是否繼續？",
-  "Couldn’t unpublish this course. Please try again.": "無法取消發佈此課程。請重試。"
+  "Couldn’t unpublish this course. Please try again.": "無法取消發佈此課程。請重試。",
+  "Device to check": "需要確認的裝置",
+  "Slot": "插槽",
+  "Warning": "警告",
+  "Caution": "注意",
+  "Error": "錯誤"
 }

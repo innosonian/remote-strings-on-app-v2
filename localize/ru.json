@@ -1,5 +1,5 @@
 {
-  "Training can continue": "Тренировку можно продолжить",
+  "Uninspected, training may stop abruptly": "Не проверено, обучение может прерваться",
   "Chest compression training can continue": "Тренировку компрессий грудной клетки можно продолжить",
   "After inspection, start the training again": "После проверки начните тренировку заново",
   "View": "Просмотр",
@@ -47,7 +47,7 @@
   " Check head board connection": " Проверьте подключение платы головы",
   " Check the chest compression sensor": " Проверьте датчик компрессии грудной клетки",
   " Check the hand position button": " Проверьте кнопку положения рук",
-  " Check the magnetic field sensor": " Проверьте датчик магнитного поля",
+  " Check the magnetic field sensor": "Проверьте датчик дыхания",
   " Check the ribs board": " Проверьте плату ребер",
   " Points": " Баллы",
   " min ": " мин ",
@@ -170,7 +170,7 @@
   "Check position": "Проверьте положение",
   "Check the chest compression sensor": "Проверьте датчик компрессии грудной клетки",
   "Check the hand position button": "Проверьте кнопку положения рук",
-  "Check the magnetic field sensor": "Проверьте датчик магнитного поля",
+  "Check the magnetic field sensor": "Проверьте датчик дыхания",
   "Check the ribs board": "Проверьте доску ребер",
   "Check your internet connection and try again.\nIf the problem persists, please restart the training process.": "Проверьте подключение к интернету и попробуйте снова.\nЕсли проблема сохраняется, перезапустите процесс обучения.",
   "Chest Compression": "Компрессия грудной клетки",
@@ -905,5 +905,10 @@
   "Couldn’t save this course. Please try again.": "Не удалось сохранить этот курс. Пожалуйста, попробуйте ещё раз.",
   "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Изменения сохранены, но не удалось загрузить последнюю версию.\nПопробуйте ещё раз или закройте редактор и откройте его снова.",
   "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "Изменения на этом экране будут заменены последней сохранённой версией.\nПродолжить?",
-  "Couldn’t unpublish this course. Please try again.": "Не удалось отменить публикацию этого курса. Пожалуйста, попробуйте ещё раз."
+  "Couldn’t unpublish this course. Please try again.": "Не удалось отменить публикацию этого курса. Пожалуйста, попробуйте ещё раз.",
+  "Device to check": "Устройство для проверки",
+  "Slot": "Слот",
+  "Warning": "Предупреждение",
+  "Caution": "Внимание",
+  "Error": "Ошибка"
 }

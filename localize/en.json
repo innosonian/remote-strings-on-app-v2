@@ -1,5 +1,5 @@
 {
-  "Training can continue": "Training can continue",
+  "Uninspected, training may stop abruptly": "Uninspected, training may stop abruptly",
   "Chest compression training can continue": "Chest compression training can continue",
   "After inspection, start the training again": "After inspection, start the training again",
   "View": "View",
@@ -47,7 +47,7 @@
   " Check head board connection": " Check head board connection",
   " Check the chest compression sensor": " Check the chest compression sensor",
   " Check the hand position button": " Check the hand position button",
-  " Check the magnetic field sensor": " Check the magnetic field sensor",
+  " Check the magnetic field sensor": " Check the respiration sensor",
   " Check the ribs board": " Check the ribs board",
   " Points": " Points",
   " min ": " min ",
@@ -170,7 +170,7 @@
   "Check position": "Check position",
   "Check the chest compression sensor": "Check the chest compression sensor",
   "Check the hand position button": "Check the hand position button",
-  "Check the magnetic field sensor": "Check the magnetic field sensor",
+  "Check the magnetic field sensor": "Check the respiration sensor",
   "Check the ribs board": "Check the ribs board",
   "Check your internet connection and try again.\nIf the problem persists, please restart the training process.": "Check your internet connection and try again.\nIf the problem persists, please restart the training process.",
   "Chest Compression": "Chest Compression",
@@ -905,5 +905,10 @@
   "Couldn’t save this course. Please try again.": "Couldn’t save this course. Please try again.",
   "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.",
   "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?",
-  "Couldn’t unpublish this course. Please try again.": "Couldn’t unpublish this course. Please try again."
+  "Couldn’t unpublish this course. Please try again.": "Couldn’t unpublish this course. Please try again.",
+  "Device to check": "Device to check",
+  "Slot": "Slot",
+  "Warning": "Warning",
+  "Caution": "Caution",
+  "Error": "Error"
 }

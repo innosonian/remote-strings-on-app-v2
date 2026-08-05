@@ -1,5 +1,5 @@
 {
-  "Training can continue": "교육을 계속할 수 있습니다",
+  "Uninspected, training may stop abruptly": "미점검 상태로 교육이 갑자기 중단될 수 있습니다",
   "Chest compression training can continue": "가슴압박 교육을 계속할 수 있습니다",
   "After inspection, start the training again": "점검 후 교육을 다시 시작하세요",
   "View": "보기",
@@ -48,7 +48,7 @@
   " Check the chest compression sensor": "압박 깊이 센서를 확인하세요",
   " Check the hand position button": "압박 위치 보드를 확인하세요",
   " Check the magnetic field sensor": "호흡 측정 센서를 확인하세요",
-  " Check the ribs board": "립보드를 확인하세요",
+  " Check the ribs board": "갈비뼈 보드를 확인하세요",
   " Points": "점",
   " min ": "분",
   " sec": "초",
@@ -905,5 +905,10 @@
   "Couldn’t save this course. Please try again.": "이 코스를 저장하지 못했습니다. 다시 시도해 주세요.",
   "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "변경사항은 저장되었지만 최신 내용을 불러오지 못했습니다.\n다시 시도하거나 편집을 닫았다가 다시 열어 주세요.",
   "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "지금 화면의 변경사항이 최근 저장본으로 대체됩니다.\n계속하시겠습니까?",
-  "Couldn’t unpublish this course. Please try again.": "이 코스의 게시를 취소하지 못했습니다. 다시 시도해 주세요."
+  "Couldn’t unpublish this course. Please try again.": "이 코스의 게시를 취소하지 못했습니다. 다시 시도해 주세요.",
+  "Device to check": "확인이 필요한 기기",
+  "Slot": "슬롯",
+  "Warning": "경고",
+  "Caution": "주의",
+  "Error": "오류"
 }

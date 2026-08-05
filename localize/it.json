@@ -1,5 +1,5 @@
 {
-  "Training can continue": "L'allenamento può continuare",
+  "Uninspected, training may stop abruptly": "Non controllato, la formazione può interrompersi",
   "Chest compression training can continue": "L'allenamento delle compressioni toraciche può continuare",
   "After inspection, start the training again": "Dopo il controllo, riavvia l'allenamento",
   "View": "Visualizza",
@@ -47,7 +47,7 @@
   " Check head board connection": " Verifica il collegamento della testata",
   " Check the chest compression sensor": " Verifica il sensore di compressione toracica",
   " Check the hand position button": " Verifica il pulsante di posizione delle mani",
-  " Check the magnetic field sensor": " Verifica il sensore del campo magnetico",
+  " Check the magnetic field sensor": "Controllare il sensore di respirazione",
   " Check the ribs board": " Verifica la tavola delle costole",
   " Points": " Punti",
   " min ": " min ",
@@ -170,7 +170,7 @@
   "Check position": "Controllare la posizione",
   "Check the chest compression sensor": "Controllare il sensore di compressione toracica",
   "Check the hand position button": "Controllare il pulsante per il posizionamento della mano",
-  "Check the magnetic field sensor": "Controllare il sensore di campo magnetico",
+  "Check the magnetic field sensor": "Controllare il sensore di respirazione",
   "Check the ribs board": "Controllare il piano della costole",
   "Check your internet connection and try again.\nIf the problem persists, please restart the training process.": "Controlla la tua connessione internet e riprova.\nSe il problema persiste, riavvia il processo di formazione.",
   "Chest Compression": "Compressione toracica",
@@ -905,5 +905,10 @@
   "Couldn’t save this course. Please try again.": "Impossibile salvare questo corso. Riprova.",
   "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Le modifiche sono state salvate, ma non è stato possibile caricare la versione più recente.\nRiprova oppure chiudi l’editor e riaprilo.",
   "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "Le modifiche in questa schermata verranno sostituite dall’ultima versione salvata.\nVuoi continuare?",
-  "Couldn’t unpublish this course. Please try again.": "Impossibile annullare la pubblicazione di questo corso. Riprova."
+  "Couldn’t unpublish this course. Please try again.": "Impossibile annullare la pubblicazione di questo corso. Riprova.",
+  "Device to check": "Dispositivo da controllare",
+  "Slot": "Postazione",
+  "Warning": "Avviso",
+  "Caution": "Attenzione",
+  "Error": "Errore"
 }

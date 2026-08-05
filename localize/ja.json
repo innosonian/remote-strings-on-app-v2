@@ -1,5 +1,5 @@
 {
-  "Training can continue": "トレーニングを続行できます",
+  "Uninspected, training may stop abruptly": "未点検のため教育が突然中断される場合があります",
   "Chest compression training can continue": "胸骨圧迫トレーニングを続行できます",
   "After inspection, start the training again": "点検後、トレーニングを再開してください",
   "View": "表示",
@@ -47,8 +47,8 @@
   " Check head board connection": " ヘッドボードの接続を確認してください",
   " Check the chest compression sensor": " 胸骨圧迫センサーを確認してください",
   " Check the hand position button": " 手の位置ボタンを確認してください",
-  " Check the magnetic field sensor": " 磁場センサーを確認してください",
-  " Check the ribs board": " リブボードを確認してください",
+  " Check the magnetic field sensor": "呼吸測定センサーを確認してください",
+  " Check the ribs board": "肋骨ボードを確認してください",
   " Points": " 点",
   " min ": " 分 ",
   " sec": " 秒",
@@ -905,5 +905,10 @@
   "Couldn’t save this course. Please try again.": "このコースを保存できませんでした。もう一度お試しください。",
   "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "変更は保存されましたが、最新の内容を読み込めませんでした。\nもう一度お試しいただくか、編集を閉じてから開き直してください。",
   "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "現在の画面の変更内容は、最後に保存された内容に置き換えられます。\n続行しますか？",
-  "Couldn’t unpublish this course. Please try again.": "このコースの公開を取り消せませんでした。もう一度お試しください。"
+  "Couldn’t unpublish this course. Please try again.": "このコースの公開を取り消せませんでした。もう一度お試しください。",
+  "Device to check": "確認が必要な機器",
+  "Slot": "スロット",
+  "Warning": "警告",
+  "Caution": "注意",
+  "Error": "エラー"
 }

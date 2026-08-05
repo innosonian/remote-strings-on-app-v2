@@ -1,5 +1,5 @@
 {
-  "Training can continue": "Das Training kann fortgesetzt werden",
+  "Uninspected, training may stop abruptly": "Ungeprüft – Training kann abrupt enden",
   "Chest compression training can continue": "Das Training der Thoraxkompressionen kann fortgesetzt werden",
   "After inspection, start the training again": "Starten Sie das Training nach der Überprüfung erneut",
   "View": "Ansehen",
@@ -47,7 +47,7 @@
   " Check head board connection": " Verbindung der Kopfplatine prüfen",
   " Check the chest compression sensor": " Brustkompressionssensor prüfen",
   " Check the hand position button": " Taste für Handposition prüfen",
-  " Check the magnetic field sensor": " Magnetfeldsensor prüfen",
+  " Check the magnetic field sensor": "Atemsensor prüfen",
   " Check the ribs board": " Rippenplatine prüfen",
   " Points": " Punkte",
   " min ": " Min. ",
@@ -168,7 +168,7 @@
   "Check position": "Position prüfen",
   "Check the chest compression sensor": "Überprüfen den sensor für die Brustkompression",
   "Check the hand position button": "Prüfen die Handpositionstaste",
-  "Check the magnetic field sensor": "Prüfen den Magnetfeldsensor",
+  "Check the magnetic field sensor": "Atemsensor prüfen",
   "Check the ribs board": "Prüfen das Rippenbrett",
   "Check your internet connection and try again.\nIf the problem persists, please restart the training process.": "Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.\nWenn das Problem weiterhin besteht, starten Sie den Trainingsvorgang bitte neu.",
   "Chest Compression": "Brustkorb Kompression",
@@ -392,7 +392,7 @@
   "Management": "Verwaltung",
   "Manager": "Manager",
   "Manikin": "Puppe",
-  "Manikin Issue": "ManikinProblem",
+  "Manikin Issue": "Problem mit der Puppe",
   "Manikin Type": "Puppentyp",
   "Manikin disconnected": "Puppe getrennt",
   "Max": "Max",
@@ -905,5 +905,10 @@
   "Couldn’t save this course. Please try again.": "Dieser Kurs konnte nicht gespeichert werden. Bitte versuchen Sie es erneut.",
   "Your changes were saved, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Ihre Änderungen wurden gespeichert, aber die neueste Version konnte nicht geladen werden.\nVersuchen Sie es erneut oder schließen Sie den Editor und öffnen Sie ihn erneut.",
   "The changes on this screen will be replaced with the latest saved version.\nDo you want to continue?": "Die Änderungen auf diesem Bildschirm werden durch die zuletzt gespeicherte Version ersetzt.\nMöchten Sie fortfahren?",
-  "Couldn’t unpublish this course. Please try again.": "Die Veröffentlichung dieses Kurses konnte nicht aufgehoben werden. Bitte versuchen Sie es erneut."
+  "Couldn’t unpublish this course. Please try again.": "Die Veröffentlichung dieses Kurses konnte nicht aufgehoben werden. Bitte versuchen Sie es erneut.",
+  "Device to check": "Zu prüfendes Gerät",
+  "Slot": "Platz",
+  "Warning": "Warnung",
+  "Caution": "Achtung",
+  "Error": "Fehler"
 }
