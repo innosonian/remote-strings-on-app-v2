@@ -70,9 +70,10 @@
   "1rank": "1. Platz",
   "2-Rescuer": "2-Retter",
   "2015 Guideline": "Richtlinie 2015",
-  "2020 AHA": "2020 AHA",
-  "2020 ARC": "2020 ARC",
-  "2020 ERC": "2020 ERC",
+  "2025 AHA": "2025 AHA",
+  "2025 ARC": "2025 ARC",
+  "2025 ERC": "2025 ERC",
+  "2025 RCUK": "2025 RCUK",
   "2rank": "2. Platz",
   "3rank": "3. Platz",
   "6 digit code": "6 stelliger code",
@@ -955,5 +956,12 @@
   "compression cross-check mismatch": "compression cross-check mismatch",
   "ventilation cross-check mismatch": "ventilation cross-check mismatch",
   "uncounted breath attempts": "uncounted breath attempts",
-  "%@ Certification": "Zertifizierung: %@"
+  "%@ Certification": "Zertifizierung: %@",
+  "Beep) Chest Compression": "Beep) Brustkorbkompression",
+  "Beep) CPR (30:2)": "Beep) HLW (30:2)",
+  "Semi Automatic": "Halbautomatisch",
+  "Fully Automatic": "Vollautomatisch",
+  "Detection ON": "Erkennung EIN",
+  "Detection OFF": "Erkennung AUS",
+  "Chest Compressions": "Brustkorbkompressionen"
 }

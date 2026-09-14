@@ -70,9 +70,10 @@
   "1rank": "第1名",
   "2-Rescuer": "双人救援",
   "2015 Guideline": "2015指南",
-  "2020 AHA": "2020 AHA",
-  "2020 ARC": "2020 ARC",
-  "2020 ERC": "2020 ERC",
+  "2025 AHA": "2025 AHA",
+  "2025 ARC": "2025 ARC",
+  "2025 ERC": "2025 ERC",
+  "2025 RCUK": "2025 RCUK",
   "2rank": "第2名",
   "3rank": "第3名",
   "6 digit code": "6位代码",
@@ -955,5 +956,12 @@
   "compression cross-check mismatch": "按压交叉校验不一致",
   "ventilation cross-check mismatch": "通气交叉校验不一致",
   "uncounted breath attempts": "未计数的吹气尝试",
-  "%@ Certification": "%@证书"
+  "%@ Certification": "%@证书",
+  "Beep) Chest Compression": "Beep) 胸外按压",
+  "Beep) CPR (30:2)": "Beep) CPR（30:2）",
+  "Semi Automatic": "半自动",
+  "Fully Automatic": "全自动",
+  "Detection ON": "检测开启",
+  "Detection OFF": "检测关闭",
+  "Chest Compressions": "胸外按压"
 }

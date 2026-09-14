@@ -70,9 +70,10 @@
   "1rank": "1位",
   "2-Rescuer": "2人体制",
   "2015 Guideline": "2015ガイドライン",
-  "2020 AHA": "2020 AHA",
-  "2020 ARC": "2020 ARC",
-  "2020 ERC": "2020 ERC",
+  "2025 AHA": "2025 AHA",
+  "2025 ARC": "2025 ARC",
+  "2025 ERC": "2025 ERC",
+  "2025 RCUK": "2025 RCUK",
   "2rank": "2位",
   "3rank": "3位",
   "6 digit code": "6桁のコード",
@@ -955,5 +956,12 @@
   "compression cross-check mismatch": "compression cross-check mismatch",
   "ventilation cross-check mismatch": "ventilation cross-check mismatch",
   "uncounted breath attempts": "uncounted breath attempts",
-  "%@ Certification": "%@証明書"
+  "%@ Certification": "%@証明書",
+  "Beep) Chest Compression": "Beep) 胸骨圧迫",
+  "Beep) CPR (30:2)": "Beep) 心肺蘇生 (30:2)",
+  "Semi Automatic": "半オート",
+  "Fully Automatic": "フルオート",
+  "Detection ON": "感知 ON",
+  "Detection OFF": "感知 OFF",
+  "Chest Compressions": "胸骨圧迫"
 }

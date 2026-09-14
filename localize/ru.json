@@ -70,9 +70,10 @@
   "1rank": "1-е место",
   "2-Rescuer": "2 - Спасатель",
   "2015 Guideline": "Рекомендации 2015",
-  "2020 AHA": "2020 AHA",
-  "2020 ARC": "2020 ARC",
-  "2020 ERC": "2020 ERC",
+  "2025 AHA": "2025 AHA",
+  "2025 ARC": "2025 ARC",
+  "2025 ERC": "2025 ERC",
+  "2025 RCUK": "2025 RCUK",
   "2rank": "2-е место",
   "3rank": "3-е место",
   "6 digit code": "6-значный код",
@@ -955,5 +956,12 @@
   "compression cross-check mismatch": "compression cross-check mismatch",
   "ventilation cross-check mismatch": "ventilation cross-check mismatch",
   "uncounted breath attempts": "uncounted breath attempts",
-  "%@ Certification": "Сертификация: %@"
+  "%@ Certification": "Сертификация: %@",
+  "Beep) Chest Compression": "Beep) Компрессия грудной клетки",
+  "Beep) CPR (30:2)": "Beep) СЛР (30:2)",
+  "Semi Automatic": "Полуавтоматический",
+  "Fully Automatic": "Полностью автоматический",
+  "Detection ON": "Обнаружение включено",
+  "Detection OFF": "Обнаружение выключено",
+  "Chest Compressions": "Компрессии грудной клетки"
 }
