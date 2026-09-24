@@ -706,6 +706,7 @@
   "Type organization infomation": "組織情報を入力",
   "Type user name": "ユーザー名を入力",
   "Unable To Load": "読み込めません",
+  "Unable to determine.": "判定できません",
   "Unable to issue certification": "証明書を発行できません",
   "Unable to retrieve course information": "コース情報を取得できません",
   "Unallocated Usage": "未割り当て使用数",

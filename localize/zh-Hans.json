@@ -706,6 +706,7 @@
   "Type organization infomation": "请输入组织信息",
   "Type user name": "请输入用户名",
   "Unable To Load": "加载失败",
+  "Unable to determine.": "无法判断",
   "Unable to issue certification": "无法颁发证书。",
   "Unable to retrieve course information": "无法获取课程信息",
   "Unallocated Usage": "预先使用的许可证",

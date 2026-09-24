@@ -706,6 +706,7 @@
   "Type organization infomation": "請輸入組織資訊",
   "Type user name": "請輸入使用者名稱",
   "Unable To Load": "載入失敗",
+  "Unable to determine.": "無法判斷",
   "Unable to issue certification": "無法核發證書",
   "Unable to retrieve course information": "無法取得課程資訊",
   "Unallocated Usage": "預先使用的授權",
