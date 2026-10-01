@@ -1,4 +1,10 @@
 {
+  "Select the preset Adult Assessment": "Choisir l’évaluation adulte du préréglage",
+  "Select the preset Infant Assessment": "Choisir l’évaluation nourrisson du préréglage",
+  "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "Choisissez l’évaluation initialement incluse dans le préréglage. Choisissez « Aucune » si elle est absente. Ce choix sera enregistré sur cet iPad.",
+  "Confirm protected assessments": "Confirmer les évaluations à protéger",
+  "None": "Aucune",
+  "Continue with the rest of the course after completing the quiz.": "Après avoir terminé le quiz, poursuivez le reste du cours.",
   "This quiz is read-only because its question settings cannot be safely saved.": "Ce quiz est en lecture seule, car les paramètres de ses questions ne peuvent pas être enregistrés en toute sécurité.",
   "Uninspected, training may stop abruptly": "Sans vérification, la formation peut s'arrêter brusquement",
   "Chest compression training can continue": "La formation aux compressions thoraciques peut continuer",

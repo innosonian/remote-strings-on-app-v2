@@ -1,4 +1,10 @@
 {
+  "Select the preset Adult Assessment": "Выберите оценку для взрослых из шаблона",
+  "Select the preset Infant Assessment": "Выберите оценку для младенцев из шаблона",
+  "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "Выберите оценку, изначально включённую в шаблон. Если её нет, выберите «Нет». Ваш выбор будет сохранён на этом iPad.",
+  "Confirm protected assessments": "Подтвердите защищённые оценки",
+  "None": "Нет",
+  "Continue with the rest of the course after completing the quiz.": "После завершения теста продолжите оставшуюся часть курса.",
   "This quiz is read-only because its question settings cannot be safely saved.": "Этот тест доступен только для чтения, поскольку настройки вопросов нельзя безопасно сохранить.",
   "Uninspected, training may stop abruptly": "Без проверки обучение может внезапно прерваться",
   "Chest compression training can continue": "Обучение компрессиям грудной клетки можно продолжить",

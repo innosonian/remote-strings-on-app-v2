@@ -1,4 +1,10 @@
 {
+  "Select the preset Adult Assessment": "プリセットの成人評価を選択",
+  "Select the preset Infant Assessment": "プリセットの乳児評価を選択",
+  "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "プリセットに元から含まれていた評価を選択してください。該当する項目がない場合は「なし」を選択してください。選択内容はこのiPadに保存されます。",
+  "Confirm protected assessments": "保護する評価を確認",
+  "None": "なし",
+  "Continue with the rest of the course after completing the quiz.": "クイズを完了したら、コースの残りを続けてください。",
   "This quiz is read-only because its question settings cannot be safely saved.": "設問の設定を安全に保存できないため、このクイズは読み取り専用です。",
   "Uninspected, training may stop abruptly": "未点検のままでは、トレーニングが突然中断される場合があります",
   "Chest compression training can continue": "胸骨圧迫トレーニングを続行できます",

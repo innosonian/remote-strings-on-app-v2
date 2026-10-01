@@ -1,4 +1,10 @@
 {
+  "Select the preset Adult Assessment": "Select the preset Adult Assessment",
+  "Select the preset Infant Assessment": "Select the preset Infant Assessment",
+  "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.",
+  "Confirm protected assessments": "Confirm protected assessments",
+  "None": "None",
+  "Continue with the rest of the course after completing the quiz.": "Continue with the rest of the course after completing the quiz.",
   "This quiz is read-only because its question settings cannot be safely saved.": "This quiz is read-only because its question settings cannot be safely saved.",
   "Uninspected, training may stop abruptly": "If not inspected, training may stop abruptly",
   "Chest compression training can continue": "Chest compression training can continue",

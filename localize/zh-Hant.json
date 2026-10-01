@@ -1,4 +1,10 @@
 {
+  "Select the preset Adult Assessment": "選擇預設中的成人評估",
+  "Select the preset Infant Assessment": "選擇預設中的嬰兒評估",
+  "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "請選擇預設中原有的評估。如果沒有該項目，請選擇「無」。選擇結果將儲存在此 iPad 上。",
+  "Confirm protected assessments": "確認要保護的評估",
+  "None": "無",
+  "Continue with the rest of the course after completing the quiz.": "完成測驗後，請繼續課程的其餘部分。",
   "This quiz is read-only because its question settings cannot be safely saved.": "由於無法安全儲存題目設定，此測驗為唯讀。",
   "Uninspected, training may stop abruptly": "未檢查，訓練可能會突然中斷",
   "Chest compression training can continue": "可以繼續胸部按壓訓練",
