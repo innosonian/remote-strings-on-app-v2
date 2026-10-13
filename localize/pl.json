@@ -1,4 +1,7 @@
 {
+  "Edit ARC training settings?": "Edytować ustawienia szkolenia ARC?",
+  "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "Zmiany zaczną obowiązywać dopiero po zapisaniu.\nZapisane zmiany zostaną zastosowane we wszystkich kursach wykorzystujących tę treść.",
+  "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "Po zapisaniu zmian postępy kursantów, którzy obecnie uczestniczą w kursach objętych zmianami, zostaną zresetowane. Kursanci będą musieli rozpocząć te kursy od nowa.",
   "Select the preset Adult Assessment": "Wybierz ocenę osoby dorosłej z szablonu",
   "Select the preset Infant Assessment": "Wybierz ocenę niemowlęcia z szablonu",
   "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "Wybierz ocenę pierwotnie zawartą w szablonie. Jeśli jej nie ma, wybierz „Brak”. Wybór zostanie zapisany na tym iPadzie.",
@@ -1090,5 +1093,8 @@
   "Linked items stay linked in the library. Copy one to edit it as your own.": "Powiązane elementy pozostają powiązane w bibliotece. Skopiuj element, aby edytować go jako własny.",
   "This item is now yours, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Ten element jest już Twój, ale nie udało się wczytać najnowszej wersji.\nSpróbuj ponownie albo zamknij edytor i otwórz go znowu.",
   "Multiple programs match this age and training type. Please contact your manager.": "Do tego wieku i rodzaju szkolenia pasuje kilka programów. Skontaktuj się z menedżerem.",
-  "Some programs have an unknown manikin type and cannot be started.": "Niektóre programy mają nieznany typ manekina i nie można ich uruchomić."
+  "Some programs have an unknown manikin type and cannot be started.": "Niektóre programy mają nieznany typ manekina i nie można ich uruchomić.",
+  "For effective CPR, maintain correct hand position, compression depth and rate, and deliver sufficient air during ventilation. Follow the prompts and use the real-time feedback during practice.": "Aby RKO była skuteczna, utrzymuj prawidłową pozycję dłoni, odpowiednią głębokość i częstotliwość uciśnięć oraz wdmuchuj wystarczającą ilość powietrza podczas wentylacji. Postępuj zgodnie z instrukcjami i podczas ćwiczeń korzystaj z informacji zwrotnych w czasie rzeczywistym.",
+  "For effective chest compressions, maintain proper hand position, depth and rate, and allow full chest recoil. Follow the prompts and use the real-time feedback during practice.": "Aby uciśnięcia klatki piersiowej były skuteczne, utrzymuj prawidłową pozycję dłoni, odpowiednią głębokość i częstotliwość uciśnięć oraz pozwalaj klatce piersiowej całkowicie wrócić do pozycji wyjściowej. Postępuj zgodnie z instrukcjami i podczas ćwiczeń korzystaj z informacji zwrotnych w czasie rzeczywistym.",
+  "For effective ventilation, maintain proper head-tilt/chin-lift, ensure a good mask seal, and deliver sufficient air. Follow the prompts and use the real-time feedback during practice.": "Aby wentylacja była skuteczna, utrzymuj prawidłowe odchylenie głowy i uniesienie brody, zapewnij dobre uszczelnienie maski i wdmuchuj wystarczającą ilość powietrza. Postępuj zgodnie z instrukcjami i podczas ćwiczeń korzystaj z informacji zwrotnych w czasie rzeczywistym."
 }

@@ -1,4 +1,7 @@
 {
+  "Edit ARC training settings?": "编辑 ARC 培训设置？",
+  "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "更改仅在保存后生效。\n保存的更改将应用于所有使用此内容的课程。",
+  "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "保存更改时，正在学习受影响课程的学员的进度将被重置，学员需要重新开始这些课程。",
   "Select the preset Adult Assessment": "选择预设中的成人考核",
   "Select the preset Infant Assessment": "选择预设中的婴儿考核",
   "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "请选择预设中原有的考核。如果没有该项目，请选择“无”。选择结果将保存在此 iPad 上。",
@@ -1090,5 +1093,8 @@
   "Linked items stay linked in the library. Copy one to edit it as your own.": "资料库中的关联项目会保持关联。请复制一份，以便作为自己的内容进行编辑。",
   "This item is now yours, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "此项目现已归您所有，但无法加载最新版本。\n请重试，或关闭编辑器后重新打开。",
   "Multiple programs match this age and training type. Please contact your manager.": "有多个程序与此年龄段和培训类型匹配。请联系管理员。",
-  "Some programs have an unknown manikin type and cannot be started.": "部分程序的模拟人类型未知，无法开始。"
+  "Some programs have an unknown manikin type and cannot be started.": "部分程序的模拟人类型未知，无法开始。",
+  "For effective CPR, maintain correct hand position, compression depth and rate, and deliver sufficient air during ventilation. Follow the prompts and use the real-time feedback during practice.": "为实现有效的心肺复苏，请保持正确的手部位置、按压深度和频率，并在人工呼吸时吹入足够的气量。请按照提示操作，并在练习过程中使用实时反馈。",
+  "For effective chest compressions, maintain proper hand position, depth and rate, and allow full chest recoil. Follow the prompts and use the real-time feedback during practice.": "为实现有效的胸外按压，请保持正确的手部位置、按压深度和频率，并让胸廓完全回弹。请按照提示操作，并在练习过程中使用实时反馈。",
+  "For effective ventilation, maintain proper head-tilt/chin-lift, ensure a good mask seal, and deliver sufficient air. Follow the prompts and use the real-time feedback during practice.": "为实现有效的人工呼吸，请保持正确的仰头抬颏姿势，确保面罩密封良好，并吹入足够的气量。请按照提示操作，并在练习过程中使用实时反馈。"
 }

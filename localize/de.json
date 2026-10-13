@@ -1,4 +1,7 @@
 {
+  "Edit ARC training settings?": "Einstellungen für das ARC-Training bearbeiten?",
+  "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "Änderungen werden erst nach dem Speichern wirksam.\nDie gespeicherten Änderungen werden auf alle Kurse angewendet, die diesen Inhalt verwenden.",
+  "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "Beim Speichern der Änderungen wird der Fortschritt der Lernenden zurückgesetzt, die die betroffenen Kurse gerade absolvieren. Sie müssen diese Kurse von vorn beginnen.",
   "Select the preset Adult Assessment": "Erwachsenenprüfung der Vorlage auswählen",
   "Select the preset Infant Assessment": "Säuglingsprüfung der Vorlage auswählen",
   "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "Wählen Sie die ursprünglich in der Vorlage enthaltene Prüfung. Wählen Sie „Keine“, wenn sie nicht vorhanden ist. Diese Auswahl wird auf diesem iPad gespeichert.",
@@ -1090,5 +1093,8 @@
   "Linked items stay linked in the library. Copy one to edit it as your own.": "Verknüpfte Elemente bleiben in der Bibliothek verknüpft. Kopieren Sie ein Element, um es als eigenes zu bearbeiten.",
   "This item is now yours, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Dieses Element gehört jetzt Ihnen, aber die neueste Version konnte nicht geladen werden.\nVersuchen Sie es erneut, oder schließen Sie den Editor und öffnen Sie ihn wieder.",
   "Multiple programs match this age and training type. Please contact your manager.": "Für diese Altersgruppe und Trainingsart gibt es mehrere Programme. Bitte wenden Sie sich an Ihren Manager.",
-  "Some programs have an unknown manikin type and cannot be started.": "Einige Programme haben einen unbekannten Übungspuppentyp und können nicht gestartet werden."
+  "Some programs have an unknown manikin type and cannot be started.": "Einige Programme haben einen unbekannten Übungspuppentyp und können nicht gestartet werden.",
+  "For effective CPR, maintain correct hand position, compression depth and rate, and deliver sufficient air during ventilation. Follow the prompts and use the real-time feedback during practice.": "Achten Sie für eine wirksame HLW auf die richtige Handposition, Kompressionstiefe und -frequenz und geben Sie bei der Beatmung ausreichend Luft. Befolgen Sie die Anweisungen und nutzen Sie während der Übung das Echtzeit-Feedback.",
+  "For effective chest compressions, maintain proper hand position, depth and rate, and allow full chest recoil. Follow the prompts and use the real-time feedback during practice.": "Achten Sie für wirksame Brustkompressionen auf die richtige Handposition, Kompressionstiefe und -frequenz und lassen Sie den Brustkorb vollständig in seine Ausgangslage zurückkehren. Befolgen Sie die Anweisungen und nutzen Sie während der Übung das Echtzeit-Feedback.",
+  "For effective ventilation, maintain proper head-tilt/chin-lift, ensure a good mask seal, and deliver sufficient air. Follow the prompts and use the real-time feedback during practice.": "Achten Sie für eine wirksame Beatmung auf korrektes Überstrecken des Kopfes und Anheben des Kinns, sorgen Sie für einen dichten Sitz der Maske und geben Sie ausreichend Luft. Befolgen Sie die Anweisungen und nutzen Sie während der Übung das Echtzeit-Feedback."
 }

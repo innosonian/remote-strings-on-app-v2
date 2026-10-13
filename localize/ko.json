@@ -1,4 +1,7 @@
 {
+  "Edit ARC training settings?": "ARC 훈련 설정을 수정할까요?",
+  "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "변경 사항은 저장한 후에 적용돼요.\n저장하면 이 콘텐츠를 사용하는 모든 교육과정에도 반영돼요.",
+  "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "변경 내용을 저장하면 해당 교육과정을 진행 중인 교육생의 진행 상태가 초기화돼요. 교육생은 해당 교육과정을 처음부터 다시 시작해야 해요.",
   "Select the preset Adult Assessment": "프리셋의 성인 평가 선택",
   "Select the preset Infant Assessment": "프리셋의 영아 평가 선택",
   "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "프리셋에 원래 포함된 평가를 선택하세요. 해당 항목이 없으면 없음을 선택하세요. 선택 내용은 이 iPad에 저장됩니다.",
@@ -1090,5 +1093,8 @@
   "Linked items stay linked in the library. Copy one to edit it as your own.": "라이브러리의 연결된 항목은 연결된 채로 유지됩니다. 내 것으로 편집하려면 복사하세요.",
   "This item is now yours, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "이 항목은 내 것이 되었지만 최신 버전을 불러오지 못했습니다.\n다시 시도하거나 편집기를 닫았다가 다시 열어 주세요.",
   "Multiple programs match this age and training type. Please contact your manager.": "이 연령과 훈련 유형에 해당하는 프로그램이 여러 개 있습니다. 관리자에게 문의하세요.",
-  "Some programs have an unknown manikin type and cannot be started.": "마네킹 유형을 확인할 수 없는 프로그램은 시작할 수 없습니다."
+  "Some programs have an unknown manikin type and cannot be started.": "마네킹 유형을 확인할 수 없는 프로그램은 시작할 수 없습니다.",
+  "For effective CPR, maintain correct hand position, compression depth and rate, and deliver sufficient air during ventilation. Follow the prompts and use the real-time feedback during practice.": "효과적인 심폐소생술을 위해 올바른 손 위치와 압박 깊이·속도를 유지하고, 인공호흡 시 충분한 공기를 불어넣으세요. 안내에 따라 연습하면서 실시간 피드백을 활용하세요.",
+  "For effective chest compressions, maintain proper hand position, depth and rate, and allow full chest recoil. Follow the prompts and use the real-time feedback during practice.": "효과적인 가슴압박을 위해 올바른 손 위치와 압박 깊이·속도를 유지하고, 가슴이 완전히 이완되도록 하세요. 안내에 따라 연습하면서 실시간 피드백을 활용하세요.",
+  "For effective ventilation, maintain proper head-tilt/chin-lift, ensure a good mask seal, and deliver sufficient air. Follow the prompts and use the real-time feedback during practice.": "효과적인 인공호흡을 위해 머리 젖히기·턱 들어올리기 자세를 올바르게 유지하고, 마스크를 잘 밀착시키고 충분한 공기를 불어넣으세요. 안내에 따라 연습하면서 실시간 피드백을 활용하세요."
 }

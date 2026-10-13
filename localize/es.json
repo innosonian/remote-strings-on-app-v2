@@ -1,4 +1,7 @@
 {
+  "Edit ARC training settings?": "¿Editar los ajustes de formación de ARC?",
+  "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "Los cambios solo se aplican después de guardarlos.\nLos cambios guardados se aplican a todos los cursos que utilizan este contenido.",
+  "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "Al guardar los cambios, se restablecerá el progreso de los estudiantes que estén realizando los cursos afectados y tendrán que empezar esos cursos de nuevo.",
   "Select the preset Adult Assessment": "Seleccionar la evaluación de adulto de la plantilla",
   "Select the preset Infant Assessment": "Seleccionar la evaluación de lactante de la plantilla",
   "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "Seleccione la evaluación incluida originalmente en la plantilla. Seleccione «Ninguna» si no está presente. Esta selección se guardará en este iPad.",
@@ -1090,5 +1093,8 @@
   "Linked items stay linked in the library. Copy one to edit it as your own.": "Los elementos vinculados siguen vinculados en la biblioteca. Copie uno para editarlo como propio.",
   "This item is now yours, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Este elemento ya es suyo, pero no se ha podido cargar la versión más reciente.\nInténtelo de nuevo o cierre el editor y vuelva a abrirlo.",
   "Multiple programs match this age and training type. Please contact your manager.": "Varios programas coinciden con esta edad y este tipo de formación. Póngase en contacto con su responsable.",
-  "Some programs have an unknown manikin type and cannot be started.": "Algunos programas tienen un tipo de maniquí desconocido y no se pueden iniciar."
+  "Some programs have an unknown manikin type and cannot be started.": "Algunos programas tienen un tipo de maniquí desconocido y no se pueden iniciar.",
+  "For effective CPR, maintain correct hand position, compression depth and rate, and deliver sufficient air during ventilation. Follow the prompts and use the real-time feedback during practice.": "Para una RCP eficaz, mantenga una posición correcta de las manos, una profundidad y frecuencia de compresión adecuadas, y administre suficiente aire durante la ventilación. Siga las indicaciones y utilice la retroalimentación en tiempo real durante la práctica.",
+  "For effective chest compressions, maintain proper hand position, depth and rate, and allow full chest recoil. Follow the prompts and use the real-time feedback during practice.": "Para unas compresiones torácicas eficaces, mantenga una posición correcta de las manos, una profundidad y frecuencia de compresión adecuadas, y permita que el tórax vuelva completamente a su posición inicial. Siga las indicaciones y utilice la retroalimentación en tiempo real durante la práctica.",
+  "For effective ventilation, maintain proper head-tilt/chin-lift, ensure a good mask seal, and deliver sufficient air. Follow the prompts and use the real-time feedback during practice.": "Para una ventilación eficaz, mantenga una inclinación de la cabeza y una elevación del mentón adecuadas, asegure un buen sellado de la mascarilla y administre suficiente aire. Siga las indicaciones y utilice la retroalimentación en tiempo real durante la práctica."
 }

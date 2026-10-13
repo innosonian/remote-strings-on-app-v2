@@ -1,4 +1,7 @@
 {
+  "Edit ARC training settings?": "ARCのトレーニング設定を編集しますか？",
+  "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "変更は保存した後にのみ反映されます。\n保存した変更は、このコンテンツを使用するすべてのコースに適用されます。",
+  "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "変更を保存すると、影響を受けるコースを現在受講している方の進捗がリセットされ、そのコースを最初からやり直す必要があります。",
   "Select the preset Adult Assessment": "プリセットの成人評価を選択",
   "Select the preset Infant Assessment": "プリセットの乳児評価を選択",
   "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "プリセットに元から含まれていた評価を選択してください。該当する項目がない場合は「なし」を選択してください。選択内容はこのiPadに保存されます。",
@@ -1090,5 +1093,8 @@
   "Linked items stay linked in the library. Copy one to edit it as your own.": "ライブラリのリンク項目はリンクされたままです。自分のものとして編集するにはコピーしてください。",
   "This item is now yours, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "この項目は自分のものになりましたが、最新バージョンを読み込めませんでした。\n再試行するか、編集画面を閉じて開き直してください。",
   "Multiple programs match this age and training type. Please contact your manager.": "この年齢とトレーニングの種類に一致するプログラムが複数あります。管理者にお問い合わせください。",
-  "Some programs have an unknown manikin type and cannot be started.": "マネキンの種類が不明なプログラムは開始できません。"
+  "Some programs have an unknown manikin type and cannot be started.": "マネキンの種類が不明なプログラムは開始できません。",
+  "For effective CPR, maintain correct hand position, compression depth and rate, and deliver sufficient air during ventilation. Follow the prompts and use the real-time feedback during practice.": "効果的な心肺蘇生のために、正しい手の位置と圧迫の深さ・テンポを保ち、人工呼吸では十分な量の息を吹き込んでください。案内に従い、練習中はリアルタイムフィードバックを活用してください。",
+  "For effective chest compressions, maintain proper hand position, depth and rate, and allow full chest recoil. Follow the prompts and use the real-time feedback during practice.": "効果的な胸骨圧迫のために、正しい手の位置と圧迫の深さ・テンポを保ち、胸郭が完全に元の位置に戻るようにしてください。案内に従い、練習中はリアルタイムフィードバックを活用してください。",
+  "For effective ventilation, maintain proper head-tilt/chin-lift, ensure a good mask seal, and deliver sufficient air. Follow the prompts and use the real-time feedback during practice.": "効果的な人工呼吸のために、適切に頭部を後屈させてあごを持ち上げた状態を保ち、マスクをしっかり密着させ、十分な量の息を吹き込んでください。案内に従い、練習中はリアルタイムフィードバックを活用してください。"
 }

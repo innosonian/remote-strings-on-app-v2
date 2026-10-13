@@ -1,4 +1,7 @@
 {
+  "Edit ARC training settings?": "Изменить настройки обучения ARC?",
+  "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "Изменения вступят в силу только после сохранения.\nСохранённые изменения будут применены ко всем курсам, в которых используется этот материал.",
+  "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "После сохранения изменений у учащихся, проходящих затронутые изменениями курсы, будет сброшен прогресс. Им придётся начать эти курсы заново.",
   "Select the preset Adult Assessment": "Выберите оценку для взрослых из шаблона",
   "Select the preset Infant Assessment": "Выберите оценку для младенцев из шаблона",
   "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "Выберите оценку, изначально включённую в шаблон. Если её нет, выберите «Нет». Ваш выбор будет сохранён на этом iPad.",
@@ -1090,5 +1093,8 @@
   "Linked items stay linked in the library. Copy one to edit it as your own.": "Связанные элементы остаются связанными в библиотеке. Скопируйте элемент, чтобы редактировать его как собственный.",
   "This item is now yours, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "Этот элемент теперь ваш, но не удалось загрузить последнюю версию.\nПопробуйте еще раз или закройте редактор и откройте его снова.",
   "Multiple programs match this age and training type. Please contact your manager.": "Для этого возраста и типа обучения найдено несколько программ. Обратитесь к менеджеру.",
-  "Some programs have an unknown manikin type and cannot be started.": "У некоторых программ неизвестный тип манекена, поэтому их невозможно запустить."
+  "Some programs have an unknown manikin type and cannot be started.": "У некоторых программ неизвестный тип манекена, поэтому их невозможно запустить.",
+  "For effective CPR, maintain correct hand position, compression depth and rate, and deliver sufficient air during ventilation. Follow the prompts and use the real-time feedback during practice.": "Для эффективной СЛР соблюдайте правильное положение рук, глубину и частоту компрессий, а при вентиляции вдувайте достаточный объем воздуха. Следуйте подсказкам и во время практики используйте обратную связь в реальном времени.",
+  "For effective chest compressions, maintain proper hand position, depth and rate, and allow full chest recoil. Follow the prompts and use the real-time feedback during practice.": "Для эффективных компрессий грудной клетки соблюдайте правильное положение рук, глубину и частоту компрессий и обеспечивайте полное расправление грудной клетки. Следуйте подсказкам и во время практики используйте обратную связь в реальном времени.",
+  "For effective ventilation, maintain proper head-tilt/chin-lift, ensure a good mask seal, and deliver sufficient air. Follow the prompts and use the real-time feedback during practice.": "Для эффективной вентиляции сохраняйте правильное положение с запрокинутой головой и приподнятым подбородком, обеспечивайте герметичное прилегание маски и вдувайте достаточный объем воздуха. Следуйте подсказкам и во время практики используйте обратную связь в реальном времени."
 }

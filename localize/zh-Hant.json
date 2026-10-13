@@ -1,4 +1,7 @@
 {
+  "Edit ARC training settings?": "編輯 ARC 訓練設定？",
+  "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "變更只會在儲存後生效。\n儲存的變更將套用至所有使用此內容的課程。",
+  "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "儲存變更時，正在學習受影響課程的學員進度將被重置，學員需要重新開始這些課程。",
   "Select the preset Adult Assessment": "選擇預設中的成人評估",
   "Select the preset Infant Assessment": "選擇預設中的嬰兒評估",
   "Choose the assessment originally included in the preset. Choose None if it is not present. This choice is saved on this iPad.": "請選擇預設中原有的評估。如果沒有該項目，請選擇「無」。選擇結果將儲存在此 iPad 上。",
@@ -1090,5 +1093,8 @@
   "Linked items stay linked in the library. Copy one to edit it as your own.": "資料庫中的關聯項目會保持關聯。請複製一份，以便作為自己的內容進行編輯。",
   "This item is now yours, but the latest version couldn’t be loaded.\nTry again, or close the editor and open it again.": "此項目現在屬於您，但無法載入最新版本。\n請再試一次，或關閉編輯器後重新開啟。",
   "Multiple programs match this age and training type. Please contact your manager.": "有多個訓練方案符合此年齡與訓練類型。請聯絡管理員。",
-  "Some programs have an unknown manikin type and cannot be started.": "部分訓練方案的人體模型類型不明，無法開始。"
+  "Some programs have an unknown manikin type and cannot be started.": "部分訓練方案的人體模型類型不明，無法開始。",
+  "For effective CPR, maintain correct hand position, compression depth and rate, and deliver sufficient air during ventilation. Follow the prompts and use the real-time feedback during practice.": "為了有效進行心肺復甦術，請保持正確的手部位置、按壓深度與頻率，並在人工呼吸時吹入足夠的氣量。請依照提示操作，並在練習時使用即時回饋。",
+  "For effective chest compressions, maintain proper hand position, depth and rate, and allow full chest recoil. Follow the prompts and use the real-time feedback during practice.": "為了有效進行胸部按壓，請保持正確的手部位置、按壓深度與頻率，並讓胸廓完全回彈。請依照提示操作，並在練習時使用即時回饋。",
+  "For effective ventilation, maintain proper head-tilt/chin-lift, ensure a good mask seal, and deliver sufficient air. Follow the prompts and use the real-time feedback during practice.": "為了有效進行人工呼吸，請保持正確的壓額抬下巴姿勢，確保面罩密合良好，並吹入足夠的氣量。請依照提示操作，並在練習時使用即時回饋。"
 }
