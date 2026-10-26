@@ -1,4 +1,5 @@
 {
+    "result.policy_fallback_notice": "This result uses the previous scoring policy. The final score may differ from real-time feedback.",
     "general.ok": "OK",
     "general.cancel": "Cancel",
     "general.confirm": "Confirm",
@@ -293,5 +294,14 @@
     "login.error.user_cancelled": "The user cancelled the login.",
     "login.error.invalid_callback": "Invalid callback URL.",
     "auto_logout.warning_title": "Auto Logout",
-    "auto_logout.warning_message": "You will be logged out in 1 minute due to inactivity."
+    "auto_logout.warning_message": "You will be logged out in 1 minute due to inactivity.",
+  "result.submission_login_required": "Your sign-in is no longer authorized. Sign in again before submitting a result.",
+  "result.submission_update_required": "This scoring policy is not supported. Update the app before starting another training session.",
+  "result.submission_invalid_request": "The training result could not be submitted because its input is invalid. Contact support; resubmitting the same result will not resolve this error.",
+  "result.submission_invalid_context": "The training result does not match its scoring context. Contact support to report this app error.",
+  "result.submission_key_conflict": "This result could not be confirmed. Do not resubmit it; check the result later or contact support.",
+  "result.submission_in_progress": "This result is still being calculated. Wait before checking its result again.",
+  "result.submission_not_sent": "Your result was not sent. Try again when your connection is available.",
+  "result.submission_rejected": "The recording service rejected your result, but it may still have been recorded. Check its recording status before trying again. Retrying can create a duplicate record.",
+  "result.submission_unknown": "Your result may already be recorded. Check its recording status before trying again. Retrying can create a duplicate record."
 }
