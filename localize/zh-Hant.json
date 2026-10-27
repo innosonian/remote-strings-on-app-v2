@@ -1,4 +1,11 @@
 {
+  "Couldn't log out.\nYou're still logged in. Please try again.": "無法登出。\n您仍處於登入狀態，請再試一次。",
+  "Pending": "待判定",
+  "Scored: %d · Unscored: %d": "已評分：%d 次 · 未評分：%d 次",
+  "Hand position results could not be matched.": "手位判定結果不一致。",
+  "Hand position details are unavailable.": "無法取得手位詳細結果。",
+  "Hand position results use the previous scoring method.": "手位結果採用原有評分方式。",
+  "Hand position comparison is awaiting verification.": "手位判定結果正在等待核對。",
   "Edit ARC training settings?": "編輯 ARC 訓練設定？",
   "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "變更只會在儲存後生效。\n儲存的變更將套用至所有使用此內容的課程。",
   "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "儲存變更時，正在學習受影響課程的學員進度將被重置，學員需要重新開始這些課程。",

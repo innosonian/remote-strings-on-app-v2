@@ -1,4 +1,11 @@
 {
+  "Couldn't log out.\nYou're still logged in. Please try again.": "Couldn't log out.\nYou're still logged in. Please try again.",
+  "Pending": "Pending",
+  "Scored: %d · Unscored: %d": "Scored: %d · Unscored: %d",
+  "Hand position results could not be matched.": "Hand position results could not be matched.",
+  "Hand position details are unavailable.": "Hand position details are unavailable.",
+  "Hand position results use the previous scoring method.": "Hand position results use the previous scoring method.",
+  "Hand position comparison is awaiting verification.": "Hand position comparison is awaiting verification.",
   "Edit ARC training settings?": "Edit ARC training settings?",
   "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.": "Changes take effect only after you save.\nYour saved changes apply to all courses that use this content.",
   "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.": "When you save changes, learners currently taking the affected courses will have their progress reset and will need to restart those courses.",
