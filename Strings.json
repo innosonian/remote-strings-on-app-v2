@@ -269,6 +269,8 @@
     "tts.blow_more": "Blow More",
     "tts.blow_less": "Blow Less",
     "tts.blow_softer": "Blow Softer",
+    "tts.vent_wait_longer": "Wait Longer",
+    "tts.vent_wait_less": "Wait Less",
 
     "position.no_press": "No Press",
     "position.good": "Good",
